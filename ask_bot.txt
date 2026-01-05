@@ -1,0 +1,30 @@
+🧠 What You Can Ask the Chatbot After Training
+
+Once you train a model using this dataset, typical queries your chatbot can answer include:
+
+📍 Support & Troubleshooting
+“How do I reset my password?”
+“I want to cancel my recent purchase.”
+“What are my delivery options?”
+“Can you check my refund status?”
+“I want to update my payment info.”
+These align with real-world customer concerns present in the dataset. 
+GitHub
+
+📍 Intent-Driven Actions
+
+“Show me the refund policy.”
+“Connect me to a human agent.”
+“What’s my invoice number?
+The bot can route or respond appropriately based on intent detection. 
+GitHub
+
+📍 Slot / Entity Usage
+
+“Check order number 12345.” → bot recognizes and uses {{Order Number}}.
+“Send an email to support@example.com
+.” → bot formats or uses {{Customer Support Email}}. 
+GitHub
+📍 Natural Language Variations
+The dataset includes language style variants — polite, colloquial, etc. so the bot can better understand real user phrasing (e.g., slang or typos). 
+bitext.com
