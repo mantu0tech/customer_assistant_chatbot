@@ -30,7 +30,8 @@ This project uses **semantic search** to find the most relevant customer support
 
 ## 🖼️ AI Illustration
 
-![AI Support Bot](https://images.unsplash.com/photo-1677442136019-21780ecad995)
+![AI Support Bot]<img width="1797" height="814" alt="image" src="https://github.com/user-attachments/assets/08ece624-671f-4936-b2b1-7b6b3b34945a" />
+
 
 ---
 
